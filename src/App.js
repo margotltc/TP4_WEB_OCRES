@@ -1,12 +1,13 @@
 /*import logo from './logo.svg';*/
 import './App.css';
-import Text from './texte.js';
+import Name from './Name.js'
+import Header from './Header.js';
 
 function App() {
   return (
     <div>
-      <Text text='Hello'/>
-      <Text text='world'/>
+      <Header />
+      <Name />
     </div>
     /*<div className="App">
       <header className="App-header">

@@ -1,0 +1,45 @@
+.container{
+    border: black solid 2px;
+    width:auto;
+    height:600px;
+  }
+  .component{
+    border: red solid 2px;
+    width:auto;
+    height:100px;
+  }
+  .header{
+    width:auto;
+    height:20%;
+    border: #282c34 solid 1.5px;
+    text-align: center;
+  }
+  .cercleV { 
+      float:left;
+          height: 15px; 
+          width: 15px; 
+          background-color: green;
+          border-radius: 50%; 
+      padding:auto;
+      margin:0.1%;
+      } 
+  
+  .cercleR { 
+      float:left;
+          height: 15px; 
+          width: 15px; 
+          background-color: red;
+          border-radius: 50%; 
+      padding:auto;
+      margin:0.1%;
+      } 
+  
+  .cercleJ { 
+      float:left;
+          height: 15px; 
+          width: 15px; 
+          background-color: orange;
+          border-radius: 50%; 
+      padding:auto;
+      margin:0.1%;
+      }
