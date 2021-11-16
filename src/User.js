@@ -5,8 +5,10 @@ import Descriptions from './Descriptions.js';
 
 
 class User extends React.Component {
+    
+
     render() {
-       // console.log(this.props);
+        console.log(this.props.prenom);
         return (
         <>
             <Informations 
